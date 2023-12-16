@@ -7,7 +7,7 @@ const output = document.createElement('div');
 const img = document.createElement('img');
 
 title.classList.add('title');
-input.classList.add('input', 'form-control', 'red');
+input.classList.add('input', 'form-control');
 input2.classList.add('input', 'form-control');
 btn.classList.add('btn', 'btn-primary');
 output.classList.add('output-block');
